@@ -31,7 +31,7 @@ print("the answer is" + str(answer))
 ########################################################################
 # Task 4:
 passme ='passme'
-guest =('what is the password? ')
+guest = input('what is the password? ')
 
 
 if guest == password:
