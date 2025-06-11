@@ -8,7 +8,7 @@ print("hello from day3")
 YOURNAME=("what is your name?")
 print("Hello"+YOURNAME)
 yourage= input("how old are you?")
-yourage= int
+yourage= int(yourage)
 
 
 
