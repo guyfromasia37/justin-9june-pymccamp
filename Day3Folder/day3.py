@@ -33,6 +33,10 @@ print("the answer is" + str(answer))
 passme ='passme'
 guest =('what is the password? ')
 
+
+if guest == password:
+    print()
+
 ########################################################################
 # Task 5:
 
