@@ -19,7 +19,7 @@ name='Hitler'
 title='Dictator'
 command='Invade Poland'
 
-[title]
+[title][name] 
 ########################################################################
 # Task 3:
 
