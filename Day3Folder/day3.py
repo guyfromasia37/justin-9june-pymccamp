@@ -36,7 +36,8 @@ guest =('what is the password? ')
 
 if guest == password:
     print('Correct!')
-
+else:
+    print()
 ########################################################################
 # Task 5:
 
