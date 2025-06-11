@@ -18,6 +18,8 @@ print("I am" + str(yourage)+" this year.")
 name='Hitler'
 title='Dictator'
 command='Invade Poland'
+
+[D]
 ########################################################################
 # Task 3:
 
