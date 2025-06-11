@@ -24,7 +24,7 @@ print( name+ num_pens + "pens")
 num1 = input("give me 1st number: ")
 num2 = input("give me a second number: ")
 answer = int(num2)
-print("the answer is + str")
+print("the answer is + str()")
 
 
 
