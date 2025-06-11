@@ -17,7 +17,7 @@ print("I am" + str(yourage)+" this year.")
 # Task 2:
 
 name="Tom"
-num_pens="9"
+num_pens= input("how many pens would you like to buy")
 print( name+ num_pens + "pens")
 
 
