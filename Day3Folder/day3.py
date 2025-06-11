@@ -9,7 +9,7 @@ YOURNAME=("what is your name?")
 print("Hello"+YOURNAME)
 yourage= input("how old are you?")
 yourage= int(yourage)
-print("I am" + str(yourage))
+print("I am" + str(yourage)+" ")
 
 
 
