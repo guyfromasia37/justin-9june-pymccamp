@@ -22,7 +22,7 @@ print( name+ num_pens + "pens")
 
 
 num1 = input("give me 1st number: ")
-num2 = input("give me a second ")
+num2 = input("give me a second number: ")
 
 ########################################################################
 # Task 4:
