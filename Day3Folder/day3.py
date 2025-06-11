@@ -6,7 +6,7 @@ print("hello from day3")
 # Task 1:
 
 YOURNAME=("what is your name?")
-print
+print("Hell")
 
 
 
