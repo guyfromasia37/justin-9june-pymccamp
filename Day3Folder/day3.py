@@ -17,7 +17,7 @@ print("I am" + str(yourage)+" this year.")
 # Task 2:
 
 name="Tom"
-num_pens="24"
+num_pens="9"
 
 
 
