@@ -21,7 +21,7 @@ print( name+ num_pens + "pens")
 # Task 3:
 
 
-num1 = input("give me 1st")
+num1 = input("give me 1st number: ")
 
 
 ########################################################################
